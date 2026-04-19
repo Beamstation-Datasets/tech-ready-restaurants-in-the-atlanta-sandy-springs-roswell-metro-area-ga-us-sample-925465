@@ -6,17 +6,17 @@
   "config_category": "sales",
   "config_description": "The \"Low Hanging Fruit.\" They have the budget but need the tech.\n\nRestaurants well-established (Beam Score > 70) and performing (sentiments last 30 days > 10 that lack online reservation AND online ordering\n\nReady for technology adoption and modernization.",
   "config_name": "Tech-Ready Restaurants in the Atlanta-Sandy Springs-Roswell Metro Area, GA, US",
-  "export_job_id": "0e3de43f-dc35-471e-a1de-3e811370a2e6",
+  "export_job_id": "91c00dfd-87e6-42d5-9d7d-33d39e1c6202",
   "github_org": "Beamstation-Datasets",
   "id_short": 925465,
   "location_name": "Atlanta-Sandy Springs-Roswell, GA",
   "location_type": "metro",
   "repo_name": "tech-ready-restaurants-in-the-atlanta-sandy-springs-roswell-metro-area-ga-us-sample-925465",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/925465/beamstation_925465_restaurants-us-atlantasandyspringsroswellga_SAMPLE_DIST.csv",
-  "sample_pct": 5.81,
+  "sample_pct": 9.89,
   "sample_records": 9,
   "sample_sha256": "320c026f6da8d8cf77cbd2b5f46b7f88e8b99003697d051a7bc10be2e64a6423",
   "sample_size_bytes": 48616,
-  "total_records": 155,
-  "updated_at": "2026-04-08T05:54:31.501627+00:00"
+  "total_records": 91,
+  "updated_at": "2026-04-15T09:48:01.301362+00:00"
 }
